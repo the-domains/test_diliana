@@ -1,7 +1,7 @@
 name: test_diliana
 favicon: null
-layout_spectrum: 0.3166684773750603
-typography_spectrum: 0.48919747676700354
+layout_spectrum: 1
+typography_spectrum: 0.51456
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0.181009940803051
-  lightness: 0.5449388320557773
-  saturation: 0.6867208522744477
-  rhythmicContrast: 0.34060141164809465
+  lightness: 0.25
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
